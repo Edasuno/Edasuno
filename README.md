@@ -90,9 +90,30 @@ And if you'd like to connect or chat, my [LinkedIn](https://www.linkedin.com/in/
 
 <img 
     align="left" 
+    alt="Anaconda" 
+    title="Anaconda"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" 
+/>
+
+
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" 
+/>
+
+<img 
+    align="left" 
     alt="Linux" 
     title="Linux"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
+
+
